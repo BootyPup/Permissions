@@ -28,6 +28,9 @@
         <Permission Cooldown="0">effect</Permission>
         <Permission Cooldown="120">heal</Permission>
         <Permission Cooldown="30">v</Permission>
+        <Permission Cooldown="500">/kit Starter</Permission>
+        <Permission Cooldown="1000">/kit Brute Force</Permission>
+        <Permission Cooldown="1500">/kit Watcher</Permission>
       </Permissions>
     </Group>
   </Groups>
